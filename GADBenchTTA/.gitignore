@@ -1,0 +1,14 @@
+__pycache__/
+datasets/
+**/__pycache__/
+catboost_info/
+results*/
+*.log
+optuna_db/
+*.npz
+tta_model/
+plots/
+debug/
+*.swp
+*.xlsx
+emb_file/
