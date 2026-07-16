@@ -17,6 +17,16 @@ This is the official implementation of TEMG-TTA, a method for blockchain anomaly
     * The code used to match motifs.
     * See [Next Section](#motifs-matching) for more details.
 
+## Data Available
+
+The pre-built DGL graph and motifs matrix can be found at:
+
+Google Drive:
+https://drive.google.com/drive/folders/1G5de5Y5aWAZBTdBpS3HO_dNtp2qcUrPM?usp=sharing
+
+Baidu Netdisk:
+https://pan.baidu.com/s/1MuAIOI-ubVR_KJFUoqc80Q?pwd=v5rw
+
 ## Motifs Matching
 
 ### Environment Setup
